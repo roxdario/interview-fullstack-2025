@@ -1,0 +1,2807 @@
+{
+  "aggregate": {
+    "changing_issues": [
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163877",
+        "name": "#164894",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      }
+    ],
+    "changing_commits": [
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164079",
+        "sha": "5088e32bd1014d7ef4e948223c60a79d610f4bca",
+        "date": "2025-08-22T12:31:48Z",
+        "message": "#164894\nfix unit on kfactor\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164072",
+        "sha": "ccc19d719c22cf2fbb53e4e53f7e618ea24901ba",
+        "date": "2025-08-21T14:15:02Z",
+        "message": "#164894\nfixed unit test\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164150",
+        "sha": "a8ca1d5336c263afdcf3f9b55f95a4f8c24fe7b8",
+        "date": "2025-08-22T15:49:16Z",
+        "message": "#164894\nAdded unit tests\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164076",
+        "sha": "55997946b0875e367b59d946cac3f0ce51b29791",
+        "date": "2025-08-21T16:15:55Z",
+        "message": "#164894\nfix unit test\n",
+        "is_merge": true,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163845",
+        "sha": "999a731d51efe7cdff706136d6c427b5354c8522",
+        "date": "2025-08-12T13:02:41Z",
+        "message": "#164894\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164156",
+        "sha": "bb4cbd827a937f31650934596a3ef06b612437ce",
+        "date": "2025-08-25T08:05:52Z",
+        "message": "#164894\nRemoved the layout \"LY023-1_HRB2204LR-RBR20008X-3015-3015-30MB-XX\" from the unit test CheckUframe.\nFixed an issue on CheckPosition for \"LY023-1_HRB2204LR-RBR20008X-3015-3015-30MB-XX\" with \"revolvingregripper\".\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163837",
+        "sha": "b823a553e13be038b729003ba16fd934e8fce4c8",
+        "date": "2025-08-08T08:11:54Z",
+        "message": "fixed ITP GaugingSusFpTestEncumbrancesRbr\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163912",
+        "sha": "215c3f172ce530475af3ae2bb26c3e9502a3848e",
+        "date": "2025-08-20T15:14:00Z",
+        "message": "Merged PR 11067: Integrate the RBR Layout LY023-1\n\nIntegrated layout LY023-1 no new devices\n\nPipeline\nhttps://dev.azure.com/company-ise/AR-CAM3i/_build/results?buildId=44483&view=results\n\nRelated work items: #164894\n",
+        "is_merge": true,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": true
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163878",
+        "sha": "c1d06caa760a4a77e358654af0e119d90d7f0ff3",
+        "date": "2025-08-13T08:49:05Z",
+        "message": "#164894\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      }
+    ],
+    "changing_files": [],
+    "impacted_issues": [
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151557",
+        "name": "#151528",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151676",
+        "name": "#152626",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155488",
+        "name": "#150948",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166884",
+        "name": "#164896",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166767",
+        "name": "#159133",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:157588",
+        "name": "#154898",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152010",
+        "name": "#152837",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164026",
+        "name": "#163495",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166557",
+        "name": "#147437",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151898",
+        "name": "#152217",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:140935",
+        "name": "#143418",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:147966",
+        "name": "#150604",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151793",
+        "name": "#147067",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152505",
+        "name": "#144999",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151971",
+        "name": "#152835",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:160156",
+        "name": "#158820",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166764",
+        "name": "#163946",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:160067",
+        "name": "#140916",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152146",
+        "name": "#150330",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166877",
+        "name": "#144602",
+        "itype": "bugfix",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      },
+      {
+        "label": "Issue",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166844",
+        "name": "#151728",
+        "itype": "feature",
+        "severity": "unknown",
+        "summary": null,
+        "description": null
+      }
+    ],
+    "impacted_commits": [
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:162541",
+        "sha": "31db482815cdd27e4b3c64b7e6d77012c6f2ebf0",
+        "date": "2025-07-22T06:47:40Z",
+        "message": "Added UnitTest and coded test for Pallet Height check\n\n(cherry picked from commit 8c5c55db1c24e5cb1af0c9372fddd1818f68be68)\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152296",
+        "sha": "38ca950236448f6d4dc05df6f0e90f1349d85bbd",
+        "date": "2025-03-13T09:13:49Z",
+        "message": "Updated LayoutTest.cs to remove duplicated method\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151541",
+        "sha": "e2f19d369064643566900991e9e4108d3d2d85ed",
+        "date": "2025-02-28T08:20:43Z",
+        "message": "correct unit test value\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152285",
+        "sha": "5aa8fa2f9b28ab38512721e1b3fd304b0cdb746d",
+        "date": "2025-03-13T05:48:23Z",
+        "message": "resolve conflict for merge\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163357",
+        "sha": "6e70cf2b0cc3a38d65cafac904ae236c617ab052",
+        "date": "2025-08-01T12:56:06Z",
+        "message": "Added Unit Test for layout HGARM A14\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:162036",
+        "sha": "8c5c55db1c24e5cb1af0c9372fddd1818f68be68",
+        "date": "2025-07-11T16:44:38Z",
+        "message": "Added UnitTest and coded test for Pallet Height check\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151663",
+        "sha": "08f81b3b86c5fff6819f627283437b1ddef8df8e",
+        "date": "2025-03-03T13:55:10Z",
+        "message": "Added check for EGBARSELAyout05 in UnitTest UngraspingTranslateDevices\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156965",
+        "sha": "320bc0e0e253a4092d67acfd7b192135bc817a92",
+        "date": "2025-04-11T15:38:37Z",
+        "message": "Updated Unit Tests\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163687",
+        "sha": "a5b99ff9095f280e645749785e56cbca4d0d5b85",
+        "date": "2025-08-07T13:01:19Z",
+        "message": "fixed ITP GaugingSusFpTestEncumbrancesRbr\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:157279",
+        "sha": "7414f902bf022f37f8d50b9c137e158c2c61979f",
+        "date": "2025-04-15T13:09:50Z",
+        "message": "completed data unit tests\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163908",
+        "sha": "2eef11cd9dbe94b9842c93cb8c4bcbebfc24d23e",
+        "date": "2025-08-20T15:05:43Z",
+        "message": "Make the height of Pallet MARS editable\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155744",
+        "sha": "faaea72bfef5c9cbd2393f2ab2dc42239e2a009b",
+        "date": "2025-04-01T17:03:06Z",
+        "message": "WIP -\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:161298",
+        "sha": "bdb4477b12fffe81ee6a16ca33bbc6d40693fe52",
+        "date": "2025-07-07T10:20:25Z",
+        "message": "Added BISystems for HGRM with or without Die Cleaner\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163910",
+        "sha": "f77ee8e77dfd0a0009a6ea738aad793143fe11dc",
+        "date": "2025-08-20T15:08:15Z",
+        "message": "Fix unit test data\n\n# Conflicts:\n#\tFoundation/Model/Model.Common/MasterData/Machines/Bend/Catalog/KineticElements/MARS_Loading/device.json\n#\tFoundation/Model/Model.Common/Test/company.MasterData.UnitTest/Devices/LayoutTest.cs\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151589",
+        "sha": "ec9e00e35d1b06528e30564ab3be7b70066e1a75",
+        "date": "2025-02-28T18:29:32Z",
+        "message": "Changed Pallet Data and added unit test\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151661",
+        "sha": "2f41777c8a8a67d5f0fda270e29c6f3e11ab388a",
+        "date": "2025-03-03T13:42:11Z",
+        "message": "Fixed wrong device name in unitTest\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152280",
+        "sha": "8a1ae079d7efa017c8d7c9e927ec4eab5b4622cb",
+        "date": "2025-03-12T17:39:45Z",
+        "message": "add Unit Test\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155457",
+        "sha": "f6ada30763cae51ff9f7a217c72b6751898c8f12",
+        "date": "2025-03-24T14:00:18Z",
+        "message": "fix tests\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151344",
+        "sha": "01d6d9f25d702f9c8de7e0c630772dcb0ef51de1",
+        "date": "2025-02-27T06:03:14Z",
+        "message": "correct unit test\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156762",
+        "sha": "fbbc146ba6cce0d722d84cd6f5947c2d8f9d64f6",
+        "date": "2025-04-08T16:21:55Z",
+        "message": "Wip\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163888",
+        "sha": "c1834a31fe9ecee079f72ff6dd1d4ea027adb59e",
+        "date": "2025-08-19T10:54:03Z",
+        "message": "Fix unit test data\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151745",
+        "sha": "ad71b2d59ad39aeae8876ff6fb14608a42d8a1e1",
+        "date": "2025-03-05T08:58:23Z",
+        "message": "plugin with ranges & constraints configurable\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155973",
+        "sha": "3b0d3975eb4a7277a2c02db3c5ebfd8d30ec59c7",
+        "date": "2025-04-02T10:39:39Z",
+        "message": "Added Unit Tests - WIP\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151657",
+        "sha": "a0a90e7944ede0eca9c0812d622821996ab6d77f",
+        "date": "2025-03-03T11:56:17Z",
+        "message": "Fixed wrong expected values about Part Passing units and Dumping Units\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152133",
+        "sha": "1906d8c15668c40ccc109030825bdf7d6fde61ed",
+        "date": "2025-03-11T10:55:44Z",
+        "message": "[Bug] #147067 / [Bug] #152217\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151563",
+        "sha": "43ea8b7aa6e7eaefdc7a1165e358b44f587857e7",
+        "date": "2025-02-28T13:30:37Z",
+        "message": "WIP\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152287",
+        "sha": "61cb979da425264c8cb4eadf8f6146d12efc5713",
+        "date": "2025-03-13T06:16:15Z",
+        "message": "from develop\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:157585",
+        "sha": "8e50f264355e9368069d03e5eb56ac3c00e0394a",
+        "date": "2025-04-18T07:04:29Z",
+        "message": "Fix for #154898\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156023",
+        "sha": "22a97e797f00b67aaac3c947addd0be71754f557",
+        "date": "2025-04-02T13:51:06Z",
+        "message": "Update after Unit test\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152147",
+        "sha": "33d435c031aea7a10e3fd05712e75aeffb8e7d2d",
+        "date": "2025-03-11T13:25:30Z",
+        "message": "port of fix bug #150330\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152099",
+        "sha": "8454cb41efdb099cc0f78975466e7a2c71606002",
+        "date": "2025-03-10T16:52:18Z",
+        "message": "Added Unit Tests\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152289",
+        "sha": "0bb0d9a283330a6e387172e65e5229e96abc23f9",
+        "date": "2025-03-13T06:22:31Z",
+        "message": "add UT\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152008",
+        "sha": "7b8446b2060203453e66157c04b8a6cccab3380b",
+        "date": "2025-03-07T15:49:37Z",
+        "message": "Fix of #152837\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156908",
+        "sha": "487970f592611a142ed85193216e9d63b8dc3cb7",
+        "date": "2025-04-10T12:41:06Z",
+        "message": "WIP\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      },
+      {
+        "label": "Commit",
+        "element_id": "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152137",
+        "sha": "ce12dd9ac743bddcbd9e7904c8ce7aaa195b4cf9",
+        "date": "2025-03-11T13:17:17Z",
+        "message": "fix bug #150330\n\nfix data and test\n",
+        "is_merge": false,
+        "repo_id": "SomeRepositoryName",
+        "binning_group": 0,
+        "merge_prefix": false
+      }
+    ],
+    "impacted_files": [],
+    "impacted_ftests": [],
+    "changing_ftests": [],
+    "impacted_utests": [],
+    "changing_utests": [],
+    "affinity_count": {
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163908": 3,
+      "SomeRepositoryName": 169,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166764": 8,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163910": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163888": 10,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:164026": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166767": 13,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163357": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:160067": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:162541": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:162036": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:160156": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:157585": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:157588": 10,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:157279": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156965": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166844": 15,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156908": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156762": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155973": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166557": 15,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:156023": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155744": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155457": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:155488": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152296": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151971": 25,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152285": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152287": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152280": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152289": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152099": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152010": 10,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152008": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151657": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151676": 12,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151661": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151589": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152505": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151563": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:147966": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151541": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151557": 10,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151344": 5,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:163687": 3,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:140935": 1,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166884": 1,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:166877": 1,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152147": 3,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152146": 6,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152137": 3,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:161298": 3,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:152133": 6,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151793": 6,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151898": 6,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151745": 6,
+      "4:f5f76bbe-5c01-4c23-9405-2a06058577e6:151663": 2
+    }
+  },
+  "aoi_graph": {
+    "nodes": [
+      {
+        "id": "c1834a31",
+        "label": "c1834a31",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Fix unit test data\n"
+      },
+      {
+        "id": "0bb0d9a2",
+        "label": "0bb0d9a2",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "add UT\n"
+      },
+      {
+        "id": "#144602",
+        "label": "#144602",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#144602 co-changed "
+      },
+      {
+        "id": "b823a553",
+        "label": "b823a553",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "fixed ITP GaugingSusFpTestEncumbrancesRbr\n"
+      },
+      {
+        "id": "#154898",
+        "label": "#154898",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#154898 co-changed "
+      },
+      {
+        "id": "5088e32b",
+        "label": "5088e32b",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\nfix unit on kfactor\n"
+      },
+      {
+        "id": "#151528",
+        "label": "#151528",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#151528 co-changed "
+      },
+      {
+        "id": "#163946",
+        "label": "#163946",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#163946 co-changed "
+      },
+      {
+        "id": "c1d06caa",
+        "label": "c1d06caa",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\n"
+      },
+      {
+        "id": "#152837",
+        "label": "#152837",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#152837 co-changed "
+      },
+      {
+        "id": "7414f902",
+        "label": "7414f902",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "completed data unit tests\n"
+      },
+      {
+        "id": "999a731d",
+        "label": "999a731d",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\n"
+      },
+      {
+        "id": "a5b99ff9",
+        "label": "a5b99ff9",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "fixed ITP GaugingSusFpTestEncumbrancesRbr\n"
+      },
+      {
+        "id": "fbbc146b",
+        "label": "fbbc146b",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Wip\n"
+      },
+      {
+        "id": "#147437",
+        "label": "#147437",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#147437 co-changed "
+      },
+      {
+        "id": "6e70cf2b",
+        "label": "6e70cf2b",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added Unit Test for layout HGARM A14\n"
+      },
+      {
+        "id": "55997946",
+        "label": "55997946",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\nfix unit test\n"
+      },
+      {
+        "id": "8a1ae079",
+        "label": "8a1ae079",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "add Unit Test\n"
+      },
+      {
+        "id": "ccc19d71",
+        "label": "ccc19d71",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\nfixed unit test\n"
+      },
+      {
+        "id": "215c3f17",
+        "label": "215c3f17",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Merged PR 11067: Integrate the RBR Layout LY023-1\n\nIntegrated layout LY023-1 no new devices\n\nPipeline\nhttps://dev.azure.com/company-ise/AR-CAM3i/_build/results?buildId=44483&view=results\n\nRelated work items: #164894\n"
+      },
+      {
+        "id": "#147067",
+        "label": "#147067",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#147067 co-changed "
+      },
+      {
+        "id": "#144999",
+        "label": "#144999",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#144999 co-changed "
+      },
+      {
+        "id": "#152217",
+        "label": "#152217",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#152217 co-changed "
+      },
+      {
+        "id": "33d435c0",
+        "label": "33d435c0",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "port of fix bug #150330\n"
+      },
+      {
+        "id": "3b0d3975",
+        "label": "3b0d3975",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added Unit Tests - WIP\n"
+      },
+      {
+        "id": "f77ee8e7",
+        "label": "f77ee8e7",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Fix unit test data\n\n# Conflicts:\n#\tFoundation/Model/Model.Common/MasterData/Machines/Bend/Catalog/KineticElements/MARS_Loading/device.json\n#\tFoundation/Model/Model.Common/Test/company.MasterData.UnitTest/Devices/LayoutTest.cs\n"
+      },
+      {
+        "id": "#150330",
+        "label": "#150330",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#150330 co-changed "
+      },
+      {
+        "id": "61cb979d",
+        "label": "61cb979d",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "from develop\n"
+      },
+      {
+        "id": "2f41777c",
+        "label": "2f41777c",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Fixed wrong device name in unitTest\n"
+      },
+      {
+        "id": "#163495",
+        "label": "#163495",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#163495 co-changed "
+      },
+      {
+        "id": "#140916",
+        "label": "#140916",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#140916 co-changed "
+      },
+      {
+        "id": "#150948",
+        "label": "#150948",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#150948 co-changed "
+      },
+      {
+        "id": "1906d8c1",
+        "label": "1906d8c1",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "[Bug] #147067 / [Bug] #152217\n"
+      },
+      {
+        "id": "320bc0e0",
+        "label": "320bc0e0",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Updated Unit Tests\n"
+      },
+      {
+        "id": "#151728",
+        "label": "#151728",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#151728 co-changed "
+      },
+      {
+        "id": "e2f19d36",
+        "label": "e2f19d36",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "correct unit test value\n"
+      },
+      {
+        "id": "5aa8fa2f",
+        "label": "5aa8fa2f",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "resolve conflict for merge\n"
+      },
+      {
+        "id": "#152626",
+        "label": "#152626",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#152626 co-changed "
+      },
+      {
+        "id": "#164894",
+        "label": "#164894",
+        "type": "VLABEL.ISSUE",
+        "level": 1,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#164894 changed"
+      },
+      {
+        "id": "#158820",
+        "label": "#158820",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#158820 co-changed "
+      },
+      {
+        "id": "2eef11cd",
+        "label": "2eef11cd",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Make the height of Pallet MARS editable\n"
+      },
+      {
+        "id": "ad71b2d5",
+        "label": "ad71b2d5",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "plugin with ranges & constraints configurable\n"
+      },
+      {
+        "id": "#143418",
+        "label": "#143418",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#143418 co-changed "
+      },
+      {
+        "id": "31db4828",
+        "label": "31db4828",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added UnitTest and coded test for Pallet Height check\n\n(cherry picked from commit 8c5c55db1c24e5cb1af0c9372fddd1818f68be68)\n"
+      },
+      {
+        "id": "01d6d9f2",
+        "label": "01d6d9f2",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "correct unit test\n"
+      },
+      {
+        "id": "bdb4477b",
+        "label": "bdb4477b",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added BISystems for HGRM with or without Die Cleaner\n"
+      },
+      {
+        "id": "bb4cbd82",
+        "label": "bb4cbd82",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\nRemoved the layout \"LY023-1_HRB2204LR-RBR20008X-3015-3015-30MB-XX\" from the unit test CheckUframe.\nFixed an issue on CheckPosition for \"LY023-1_HRB2204LR-RBR20008X-3015-3015-30MB-XX\" with \"revolvingregripper\".\n"
+      },
+      {
+        "id": "#159133",
+        "label": "#159133",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#159133 co-changed "
+      },
+      {
+        "id": "f6ada307",
+        "label": "f6ada307",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "fix tests\n"
+      },
+      {
+        "id": "22a97e79",
+        "label": "22a97e79",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Update after Unit test\n"
+      },
+      {
+        "id": "#150604",
+        "label": "#150604",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#150604 co-changed "
+      },
+      {
+        "id": "487970f5",
+        "label": "487970f5",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "WIP\n"
+      },
+      {
+        "id": "a0a90e79",
+        "label": "a0a90e79",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Fixed wrong expected values about Part Passing units and Dumping Units\n"
+      },
+      {
+        "id": "08f81b3b",
+        "label": "08f81b3b",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added check for EGBARSELAyout05 in UnitTest UngraspingTranslateDevices\n"
+      },
+      {
+        "id": "a8ca1d53",
+        "label": "a8ca1d53",
+        "type": "VLABEL.COMMIT",
+        "level": 2,
+        "shape": "ellipse",
+        "color": null,
+        "title": "#164894\nAdded unit tests\n"
+      },
+      {
+        "id": "#164896",
+        "label": "#164896",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#407cf9",
+        "title": "#164896 co-changed "
+      },
+      {
+        "id": "ec9e00e3",
+        "label": "ec9e00e3",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Changed Pallet Data and added unit test\n"
+      },
+      {
+        "id": "8e50f264",
+        "label": "8e50f264",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Fix for #154898\n"
+      },
+      {
+        "id": "ce12dd9a",
+        "label": "ce12dd9a",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "fix bug #150330\n\nfix data and test\n"
+      },
+      {
+        "id": "#152835",
+        "label": "#152835",
+        "type": "VLABEL.ISSUE",
+        "level": 4,
+        "shape": "triangle",
+        "color": "#d32020",
+        "title": "#152835 co-changed "
+      },
+      {
+        "id": "7b8446b2",
+        "label": "7b8446b2",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Fix of #152837\n"
+      },
+      {
+        "id": "43ea8b7a",
+        "label": "43ea8b7a",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "WIP\n"
+      },
+      {
+        "id": "faaea72b",
+        "label": "faaea72b",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "WIP -\n"
+      },
+      {
+        "id": "8c5c55db",
+        "label": "8c5c55db",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added UnitTest and coded test for Pallet Height check\n"
+      },
+      {
+        "id": "8454cb41",
+        "label": "8454cb41",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Added Unit Tests\n"
+      },
+      {
+        "id": "38ca9502",
+        "label": "38ca9502",
+        "type": "VLABEL.COMMIT",
+        "level": 3,
+        "shape": "ellipse",
+        "color": null,
+        "title": "Updated LayoutTest.cs to remove duplicated method\n"
+      }
+    ],
+    "edges": [
+      {
+        "label": "2025-04-08",
+        "frm": "bb4cbd82",
+        "to": "fbbc146b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-08"
+      },
+      {
+        "label": "2025-04-01",
+        "frm": "a8ca1d53",
+        "to": "faaea72b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-01"
+      },
+      {
+        "label": "2025-08-01",
+        "frm": "215c3f17",
+        "to": "6e70cf2b",
+        "value": 0,
+        "title": "Changed same files on 2025-08-01"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "bb4cbd82",
+        "to": "43ea8b7a",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-04-11",
+        "frm": "c1d06caa",
+        "to": "320bc0e0",
+        "value": 0,
+        "title": "Changed same files on 2025-04-11"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "c1d06caa",
+        "to": "22a97e79",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-03-05",
+        "frm": "ccc19d71",
+        "to": "ad71b2d5",
+        "value": 0,
+        "title": "Changed same files on 2025-03-05"
+      },
+      {
+        "label": "0 Files",
+        "frm": "ad71b2d5",
+        "to": "#147067",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-08-19",
+        "frm": "215c3f17",
+        "to": "c1834a31",
+        "value": 0,
+        "title": "Changed same files on 2025-08-19"
+      },
+      {
+        "label": "2025-04-08",
+        "frm": "a8ca1d53",
+        "to": "fbbc146b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-08"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "999a731d",
+        "to": "3b0d3975",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-03-10",
+        "frm": "999a731d",
+        "to": "8454cb41",
+        "value": 0,
+        "title": "Changed same files on 2025-03-10"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "b823a553",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-08"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "c1d06caa",
+        "to": "0bb0d9a2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "215c3f17",
+        "to": "2f41777c",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "0 Files",
+        "frm": "31db4828",
+        "to": "#159133",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-07",
+        "frm": "bb4cbd82",
+        "to": "7b8446b2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-07"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "ccc19d71",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-21"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "bb4cbd82",
+        "to": "0bb0d9a2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "bb4cbd82",
+        "to": "22a97e79",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "0 Files",
+        "frm": "e2f19d36",
+        "to": "#151528",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-24",
+        "frm": "a8ca1d53",
+        "to": "f6ada307",
+        "value": 0,
+        "title": "Changed same files on 2025-03-24"
+      },
+      {
+        "label": "0 Files",
+        "frm": "f6ada307",
+        "to": "#150948",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-07-22",
+        "frm": "a8ca1d53",
+        "to": "31db4828",
+        "value": 0,
+        "title": "Changed same files on 2025-07-22"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "a8ca1d53",
+        "to": "22a97e79",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "55997946",
+        "to": "33d435c0",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "2025-04-15",
+        "frm": "c1d06caa",
+        "to": "7414f902",
+        "value": 0,
+        "title": "Changed same files on 2025-04-15"
+      },
+      {
+        "label": "2025-03-12",
+        "frm": "c1d06caa",
+        "to": "8a1ae079",
+        "value": 0,
+        "title": "Changed same files on 2025-03-12"
+      },
+      {
+        "label": "2025-04-11",
+        "frm": "999a731d",
+        "to": "320bc0e0",
+        "value": 0,
+        "title": "Changed same files on 2025-04-11"
+      },
+      {
+        "label": "0 Files",
+        "frm": "8e50f264",
+        "to": "#154898",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "f77ee8e7",
+        "to": "#163946",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "215c3f17",
+        "to": "a0a90e79",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "c1d06caa",
+        "to": "2f41777c",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-03-10",
+        "frm": "a8ca1d53",
+        "to": "8454cb41",
+        "value": 0,
+        "title": "Changed same files on 2025-03-10"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "a8ca1d53",
+        "to": "f77ee8e7",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "0 Files",
+        "frm": "bdb4477b",
+        "to": "#159133",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "43ea8b7a",
+        "to": "#150604",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "487970f5",
+        "to": "#151728",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "bb4cbd82",
+        "to": "2f41777c",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "999a731d",
+        "to": "0bb0d9a2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-07-11",
+        "frm": "215c3f17",
+        "to": "8c5c55db",
+        "value": 0,
+        "title": "Changed same files on 2025-07-11"
+      },
+      {
+        "label": "2025-03-07",
+        "frm": "215c3f17",
+        "to": "7b8446b2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-07"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "c1d06caa",
+        "to": "43ea8b7a",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-03-12",
+        "frm": "bb4cbd82",
+        "to": "8a1ae079",
+        "value": 0,
+        "title": "Changed same files on 2025-03-12"
+      },
+      {
+        "label": "2025-03-07",
+        "frm": "999a731d",
+        "to": "7b8446b2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-07"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "a8ca1d53",
+        "to": "2f41777c",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-04-18",
+        "frm": "a8ca1d53",
+        "to": "8e50f264",
+        "value": 0,
+        "title": "Changed same files on 2025-04-18"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "c1d06caa",
+        "to": "a0a90e79",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "999a731d",
+        "to": "38ca9502",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-04-15",
+        "frm": "215c3f17",
+        "to": "7414f902",
+        "value": 0,
+        "title": "Changed same files on 2025-04-15"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "a8ca1d53",
+        "to": "e2f19d36",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "55997946",
+        "to": "1906d8c1",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "2025-04-11",
+        "frm": "bb4cbd82",
+        "to": "320bc0e0",
+        "value": 0,
+        "title": "Changed same files on 2025-04-11"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "bb4cbd82",
+        "to": "a0a90e79",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "a8ca1d53",
+        "to": "38ca9502",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-10",
+        "frm": "c1d06caa",
+        "to": "8454cb41",
+        "value": 0,
+        "title": "Changed same files on 2025-03-10"
+      },
+      {
+        "label": "2025-04-15",
+        "frm": "a8ca1d53",
+        "to": "7414f902",
+        "value": 0,
+        "title": "Changed same files on 2025-04-15"
+      },
+      {
+        "label": "2025-04-18",
+        "frm": "c1d06caa",
+        "to": "8e50f264",
+        "value": 0,
+        "title": "Changed same files on 2025-04-18"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "a8ca1d53",
+        "to": "ec9e00e3",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "5088e32b",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-22"
+      },
+      {
+        "label": "2025-03-10",
+        "frm": "bb4cbd82",
+        "to": "8454cb41",
+        "value": 0,
+        "title": "Changed same files on 2025-03-10"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "bb4cbd82",
+        "to": "2eef11cd",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "a8ca1d53",
+        "to": "a0a90e79",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "bb4cbd82",
+        "to": "f77ee8e7",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "ccc19d71",
+        "to": "33d435c0",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "2025-03-24",
+        "frm": "215c3f17",
+        "to": "f6ada307",
+        "value": 0,
+        "title": "Changed same files on 2025-03-24"
+      },
+      {
+        "label": "2025-03-05",
+        "frm": "5088e32b",
+        "to": "ad71b2d5",
+        "value": 0,
+        "title": "Changed same files on 2025-03-05"
+      },
+      {
+        "label": "2025-04-18",
+        "frm": "bb4cbd82",
+        "to": "8e50f264",
+        "value": 0,
+        "title": "Changed same files on 2025-04-18"
+      },
+      {
+        "label": "2025-04-10",
+        "frm": "215c3f17",
+        "to": "487970f5",
+        "value": 0,
+        "title": "Changed same files on 2025-04-10"
+      },
+      {
+        "label": "2025-02-27",
+        "frm": "215c3f17",
+        "to": "01d6d9f2",
+        "value": 0,
+        "title": "Changed same files on 2025-02-27"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "215c3f17",
+        "to": "22a97e79",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "215c3f17",
+        "to": "5aa8fa2f",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-08-19",
+        "frm": "55997946",
+        "to": "c1834a31",
+        "value": 0,
+        "title": "Changed same files on 2025-08-19"
+      },
+      {
+        "label": "0 Files",
+        "frm": "1906d8c1",
+        "to": "#152217",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "bb4cbd82",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-25"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "999a731d",
+        "to": "5aa8fa2f",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "55997946",
+        "to": "08f81b3b",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "c1d06caa",
+        "to": "e2f19d36",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "a8ca1d53",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-22"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "ccc19d71",
+        "to": "f77ee8e7",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "a8ca1d53",
+        "to": "5aa8fa2f",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "bb4cbd82",
+        "to": "e2f19d36",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "0 Files",
+        "frm": "c1834a31",
+        "to": "#163495",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-04-01",
+        "frm": "c1d06caa",
+        "to": "faaea72b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-01"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "999a731d",
+        "to": "2f41777c",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-08-19",
+        "frm": "a8ca1d53",
+        "to": "c1834a31",
+        "value": 0,
+        "title": "Changed same files on 2025-08-19"
+      },
+      {
+        "label": "2025-03-10",
+        "frm": "215c3f17",
+        "to": "8454cb41",
+        "value": 0,
+        "title": "Changed same files on 2025-03-10"
+      },
+      {
+        "label": "0 Files",
+        "frm": "08f81b3b",
+        "to": "#152626",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-04-11",
+        "frm": "215c3f17",
+        "to": "320bc0e0",
+        "value": 0,
+        "title": "Changed same files on 2025-04-11"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "c1d06caa",
+        "to": "ec9e00e3",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-02-27",
+        "frm": "c1d06caa",
+        "to": "01d6d9f2",
+        "value": 0,
+        "title": "Changed same files on 2025-02-27"
+      },
+      {
+        "label": "2025-07-22",
+        "frm": "c1d06caa",
+        "to": "31db4828",
+        "value": 0,
+        "title": "Changed same files on 2025-07-22"
+      },
+      {
+        "label": "0 Files",
+        "frm": "a5b99ff9",
+        "to": "#143418",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-12",
+        "frm": "999a731d",
+        "to": "8a1ae079",
+        "value": 0,
+        "title": "Changed same files on 2025-03-12"
+      },
+      {
+        "label": "2025-04-10",
+        "frm": "a8ca1d53",
+        "to": "487970f5",
+        "value": 0,
+        "title": "Changed same files on 2025-04-10"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "5088e32b",
+        "to": "1906d8c1",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "2025-07-22",
+        "frm": "bb4cbd82",
+        "to": "31db4828",
+        "value": 0,
+        "title": "Changed same files on 2025-07-22"
+      },
+      {
+        "label": "2025-04-01",
+        "frm": "215c3f17",
+        "to": "faaea72b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-01"
+      },
+      {
+        "label": "0 Files",
+        "frm": "ec9e00e3",
+        "to": "#144999",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-04-10",
+        "frm": "999a731d",
+        "to": "487970f5",
+        "value": 0,
+        "title": "Changed same files on 2025-04-10"
+      },
+      {
+        "label": "2025-04-18",
+        "frm": "215c3f17",
+        "to": "8e50f264",
+        "value": 0,
+        "title": "Changed same files on 2025-04-18"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "5088e32b",
+        "to": "ce12dd9a",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "2025-04-08",
+        "frm": "999a731d",
+        "to": "fbbc146b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-08"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "215c3f17",
+        "to": "e2f19d36",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "0 Files",
+        "frm": "a5b99ff9",
+        "to": "#164896",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-07-07",
+        "frm": "ccc19d71",
+        "to": "bdb4477b",
+        "value": 0,
+        "title": "Changed same files on 2025-07-07"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "999a731d",
+        "to": "e2f19d36",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "c1d06caa",
+        "to": "5aa8fa2f",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "0 Files",
+        "frm": "8c5c55db",
+        "to": "#158820",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "7414f902",
+        "to": "#154898",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-07-11",
+        "frm": "999a731d",
+        "to": "8c5c55db",
+        "value": 0,
+        "title": "Changed same files on 2025-07-11"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "55997946",
+        "to": "f77ee8e7",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "2025-08-19",
+        "frm": "bb4cbd82",
+        "to": "c1834a31",
+        "value": 0,
+        "title": "Changed same files on 2025-08-19"
+      },
+      {
+        "label": "2025-07-22",
+        "frm": "215c3f17",
+        "to": "31db4828",
+        "value": 0,
+        "title": "Changed same files on 2025-07-22"
+      },
+      {
+        "label": "0 Files",
+        "frm": "2eef11cd",
+        "to": "#163946",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "215c3f17",
+        "to": "ec9e00e3",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "c1d06caa",
+        "to": "3b0d3975",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "5088e32b",
+        "to": "33d435c0",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "0 Files",
+        "frm": "22a97e79",
+        "to": "#147437",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "215c3f17",
+        "to": "2eef11cd",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "0 Files",
+        "frm": "01d6d9f2",
+        "to": "#151528",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-02-27",
+        "frm": "bb4cbd82",
+        "to": "01d6d9f2",
+        "value": 0,
+        "title": "Changed same files on 2025-02-27"
+      },
+      {
+        "label": "2025-03-05",
+        "frm": "55997946",
+        "to": "ad71b2d5",
+        "value": 0,
+        "title": "Changed same files on 2025-03-05"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "215c3f17",
+        "to": "43ea8b7a",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "bb4cbd82",
+        "to": "3b0d3975",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "999a731d",
+        "to": "43ea8b7a",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "a8ca1d53",
+        "to": "3b0d3975",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "0 Files",
+        "frm": "8a1ae079",
+        "to": "#152835",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "215c3f17",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-20"
+      },
+      {
+        "label": "2025-08-01",
+        "frm": "999a731d",
+        "to": "6e70cf2b",
+        "value": 0,
+        "title": "Changed same files on 2025-08-01"
+      },
+      {
+        "label": "2025-08-07",
+        "frm": "b823a553",
+        "to": "a5b99ff9",
+        "value": 0,
+        "title": "Changed same files on 2025-08-07"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "a8ca1d53",
+        "to": "43ea8b7a",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "0 Files",
+        "frm": "ad71b2d5",
+        "to": "#152217",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-04-01",
+        "frm": "bb4cbd82",
+        "to": "faaea72b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-01"
+      },
+      {
+        "label": "2025-04-10",
+        "frm": "c1d06caa",
+        "to": "487970f5",
+        "value": 0,
+        "title": "Changed same files on 2025-04-10"
+      },
+      {
+        "label": "0 Files",
+        "frm": "61cb979d",
+        "to": "#152835",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-07-07",
+        "frm": "55997946",
+        "to": "bdb4477b",
+        "value": 0,
+        "title": "Changed same files on 2025-07-07"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "bb4cbd82",
+        "to": "ec9e00e3",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "2025-07-22",
+        "frm": "999a731d",
+        "to": "31db4828",
+        "value": 0,
+        "title": "Changed same files on 2025-07-22"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "215c3f17",
+        "to": "61cb979d",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-02-27",
+        "frm": "999a731d",
+        "to": "01d6d9f2",
+        "value": 0,
+        "title": "Changed same files on 2025-02-27"
+      },
+      {
+        "label": "2025-08-19",
+        "frm": "ccc19d71",
+        "to": "c1834a31",
+        "value": 0,
+        "title": "Changed same files on 2025-08-19"
+      },
+      {
+        "label": "0 Files",
+        "frm": "faaea72b",
+        "to": "#147437",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "ccc19d71",
+        "to": "1906d8c1",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "999a731d",
+        "to": "61cb979d",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-04-18",
+        "frm": "999a731d",
+        "to": "8e50f264",
+        "value": 0,
+        "title": "Changed same files on 2025-04-18"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "c1d06caa",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-13"
+      },
+      {
+        "label": "2025-07-11",
+        "frm": "bb4cbd82",
+        "to": "8c5c55db",
+        "value": 0,
+        "title": "Changed same files on 2025-07-11"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "a8ca1d53",
+        "to": "0bb0d9a2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-02-27",
+        "frm": "a8ca1d53",
+        "to": "01d6d9f2",
+        "value": 0,
+        "title": "Changed same files on 2025-02-27"
+      },
+      {
+        "label": "2025-04-08",
+        "frm": "c1d06caa",
+        "to": "fbbc146b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-08"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "a8ca1d53",
+        "to": "61cb979d",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-08-01",
+        "frm": "bb4cbd82",
+        "to": "6e70cf2b",
+        "value": 0,
+        "title": "Changed same files on 2025-08-01"
+      },
+      {
+        "label": "0 Files",
+        "frm": "33d435c0",
+        "to": "#150330",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "38ca9502",
+        "to": "#152835",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "55997946",
+        "to": "ce12dd9a",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      },
+      {
+        "label": "0 Files",
+        "frm": "1906d8c1",
+        "to": "#147067",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-08-01",
+        "frm": "a8ca1d53",
+        "to": "6e70cf2b",
+        "value": 0,
+        "title": "Changed same files on 2025-08-01"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "bb4cbd82",
+        "to": "5aa8fa2f",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "0 Files",
+        "frm": "8454cb41",
+        "to": "#152837",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-04-15",
+        "frm": "bb4cbd82",
+        "to": "7414f902",
+        "value": 0,
+        "title": "Changed same files on 2025-04-15"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "999a731d",
+        "to": "22a97e79",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "999a731d",
+        "to": "a0a90e79",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "0 Files",
+        "frm": "ce12dd9a",
+        "to": "#150330",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "c1834a31",
+        "to": "#159133",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-07-07",
+        "frm": "5088e32b",
+        "to": "bdb4477b",
+        "value": 0,
+        "title": "Changed same files on 2025-07-07"
+      },
+      {
+        "label": "2025-04-01",
+        "frm": "999a731d",
+        "to": "faaea72b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-01"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "215c3f17",
+        "to": "f77ee8e7",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "2025-03-12",
+        "frm": "215c3f17",
+        "to": "8a1ae079",
+        "value": 0,
+        "title": "Changed same files on 2025-03-12"
+      },
+      {
+        "label": "2025-07-11",
+        "frm": "c1d06caa",
+        "to": "8c5c55db",
+        "value": 0,
+        "title": "Changed same files on 2025-07-11"
+      },
+      {
+        "label": "2025-04-10",
+        "frm": "bb4cbd82",
+        "to": "487970f5",
+        "value": 0,
+        "title": "Changed same files on 2025-04-10"
+      },
+      {
+        "label": "2025-03-07",
+        "frm": "c1d06caa",
+        "to": "7b8446b2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-07"
+      },
+      {
+        "label": "2025-03-24",
+        "frm": "c1d06caa",
+        "to": "f6ada307",
+        "value": 0,
+        "title": "Changed same files on 2025-03-24"
+      },
+      {
+        "label": "2025-02-28",
+        "frm": "999a731d",
+        "to": "ec9e00e3",
+        "value": 0,
+        "title": "Changed same files on 2025-02-28"
+      },
+      {
+        "label": "0 Files",
+        "frm": "7b8446b2",
+        "to": "#152837",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "fbbc146b",
+        "to": "#151728",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "c1d06caa",
+        "to": "38ca9502",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "c1d06caa",
+        "to": "61cb979d",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "215c3f17",
+        "to": "0bb0d9a2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-12",
+        "frm": "a8ca1d53",
+        "to": "8a1ae079",
+        "value": 0,
+        "title": "Changed same files on 2025-03-12"
+      },
+      {
+        "label": "2025-03-24",
+        "frm": "bb4cbd82",
+        "to": "f6ada307",
+        "value": 0,
+        "title": "Changed same files on 2025-03-24"
+      },
+      {
+        "label": "2025-04-08",
+        "frm": "215c3f17",
+        "to": "fbbc146b",
+        "value": 0,
+        "title": "Changed same files on 2025-04-08"
+      },
+      {
+        "label": "2025-03-03",
+        "frm": "ccc19d71",
+        "to": "08f81b3b",
+        "value": 0,
+        "title": "Changed same files on 2025-03-03"
+      },
+      {
+        "label": "2025-04-02",
+        "frm": "215c3f17",
+        "to": "3b0d3975",
+        "value": 0,
+        "title": "Changed same files on 2025-04-02"
+      },
+      {
+        "label": "0 Files",
+        "frm": "2f41777c",
+        "to": "#152626",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "3b0d3975",
+        "to": "#147437",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "a0a90e79",
+        "to": "#152626",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "bb4cbd82",
+        "to": "38ca9502",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "bb4cbd82",
+        "to": "61cb979d",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-04-15",
+        "frm": "999a731d",
+        "to": "7414f902",
+        "value": 0,
+        "title": "Changed same files on 2025-04-15"
+      },
+      {
+        "label": "0 Files",
+        "frm": "320bc0e0",
+        "to": "#151728",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-04-11",
+        "frm": "a8ca1d53",
+        "to": "320bc0e0",
+        "value": 0,
+        "title": "Changed same files on 2025-04-11"
+      },
+      {
+        "label": "0 Files",
+        "frm": "6e70cf2b",
+        "to": "#140916",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "5aa8fa2f",
+        "to": "#152835",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "0 Files",
+        "frm": "a5b99ff9",
+        "to": "#144602",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "55997946",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-21"
+      },
+      {
+        "label": "2025-08-20",
+        "frm": "a8ca1d53",
+        "to": "2eef11cd",
+        "value": 0,
+        "title": "Changed same files on 2025-08-20"
+      },
+      {
+        "label": "2025-07-11",
+        "frm": "a8ca1d53",
+        "to": "8c5c55db",
+        "value": 0,
+        "title": "Changed same files on 2025-07-11"
+      },
+      {
+        "label": "2025-08-01",
+        "frm": "c1d06caa",
+        "to": "6e70cf2b",
+        "value": 0,
+        "title": "Changed same files on 2025-08-01"
+      },
+      {
+        "label": "0 Files",
+        "frm": "0bb0d9a2",
+        "to": "#152835",
+        "value": 0,
+        "title": "0 files"
+      },
+      {
+        "label": "2025-03-24",
+        "frm": "999a731d",
+        "to": "f6ada307",
+        "value": 0,
+        "title": "Changed same files on 2025-03-24"
+      },
+      {
+        "label": "2025-03-13",
+        "frm": "215c3f17",
+        "to": "38ca9502",
+        "value": 0,
+        "title": "Changed same files on 2025-03-13"
+      },
+      {
+        "label": "2025-03-07",
+        "frm": "a8ca1d53",
+        "to": "7b8446b2",
+        "value": 0,
+        "title": "Changed same files on 2025-03-07"
+      },
+      {
+        "label": "Changed 0 files",
+        "frm": "999a731d",
+        "to": "#164894",
+        "value": null,
+        "title": "Changed 0 files on 2025-08-12"
+      },
+      {
+        "label": "2025-03-11",
+        "frm": "ccc19d71",
+        "to": "ce12dd9a",
+        "value": 0,
+        "title": "Changed same files on 2025-03-11"
+      }
+    ]
+  },
+  "query_params": {
+    "names": [
+      "#164894"
+    ],
+    "itype": "None",
+    "severity": "None",
+    "since": "2025-02-25 00:00:00",
+    "until": "2025-08-25 00:00:00",
+    "include_merges": "False",
+    "include_files": "False",
+    "strict_overlap": "False",
+    "limit": "10000"
+  }
+}
